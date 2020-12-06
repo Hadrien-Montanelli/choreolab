@@ -20,6 +20,8 @@ To clone the choreolab repository, first navigate in a terminal to where you wan
 git clone https://github.com/Hadrien-Montanelli/choreolab.git
 ```
 
+The package requires Chebfun: https://github.com/chebfun/chebfun.
+
 Any comment or question, send an email to: hadrien.montanelli@gmail.com
 
 # License
