@@ -1,7 +1,6 @@
 # About
-MATLAB package to compute choreographies. The code is used in these two papers:
+MATLAB package to compute choreographies. The code is used the following paper:
 - H. Montanelli, N.I. Gushterov, Computing planar and spherical choreographies, SIAM J. Appl. Dyn. Syst. (2016)
-- H. Montanelli, Computing hyperbolic choreographies, Regul. Chaotic Dyn. (2016) 
 
 # Installation
 
