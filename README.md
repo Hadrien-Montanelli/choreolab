@@ -23,5 +23,9 @@ The package requires Chebfun: https://github.com/chebfun/chebfun.
 
 Any comment or question, send an email to: hadrien.montanelli@gmail.com
 
+# Getting started
+
+Type `choreo` and follow the instrcutions &mdash; happy computing!
+
 # License
 See `LICENSE.txt` for licensing information.
