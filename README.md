@@ -1,6 +1,6 @@
 # About
 MATLAB package for computing choreographies. The code is used the following paper:
-- H. Montanelli, N.I. Gushterov, Computing planar and spherical choreographies, SIADS (2016)
+- H. Montanelli, N.I. Gushterov, <i>Computing planar and spherical choreographies</i>, SIADS (2016)
 
 # Installation
 
