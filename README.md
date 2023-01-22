@@ -23,7 +23,7 @@ The package requires Chebfun: https://github.com/chebfun/chebfun.
 
 # Getting started
 
-Type `choreo` and follow the instrcutions &mdash; happy computing!
+Check out `choreo.m` &mdash; happy computing!
 
 # License
 See `LICENSE.txt` for licensing information.
